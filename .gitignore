@@ -1,11 +1,10 @@
-﻿# Carpetas de importación
+﻿# Archivos de importación y configuración local
 .import/
 export_presets.cfg
+.godot/
+.editor_settings-3.tres
+.editor_settings-4.tres
 
 # Archivos temporales
 *.tmp
 *.log
-
-# Configuración local de usuario
-.editor_settings-3.tres
-.editor_settings-4.tres
