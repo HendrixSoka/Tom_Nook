@@ -1,0 +1,11 @@
+﻿# Carpetas de importación
+.import/
+export_presets.cfg
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración local de usuario
+.editor_settings-3.tres
+.editor_settings-4.tres
